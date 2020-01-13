@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 Esta es la historia de Javier González Calero
 
 Javier tiene 31 años y naci en Tenerife
 
 Mañana nos enfocaremos en su vida laboral.
-=======
-Esta es la historia de Freddy Vega
-
-Freddy Vega tiene 32 años y nació en Colombia
-
-Mañana nos enfocaremos en su vida laboral
->>>>>>> bd508a1d73cdec0e9c3e842ae8369e9fdf28491d
