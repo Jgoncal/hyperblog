@@ -2,28 +2,11 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
     font-family: "Arial";
-=======
-    font-family: Arial;
->>>>>>> bd508a1d73cdec0e9c3e842ae8369e9fdf28491d
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-#container
-{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #ddd;
-    margin: 0 auto;
-}
-#container h1
-{
-    font-size: 20px;
-=======
 
 #cabecera
 {
@@ -58,5 +41,4 @@ body
 #post
 {
     padding: 1em;
->>>>>>> bd508a1d73cdec0e9c3e842ae8369e9fdf28491d
 }
